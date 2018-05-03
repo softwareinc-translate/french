@@ -92,7 +92,7 @@
 		<Item Name="WireModeDesc">Utilisez ceci pour connecter vos serveurs</Item>
 		<Item Name="Dataoverlay">Superposition de données</Item>
 		<Item Name="DataoverlayDesc">Cliquez ici pour que la couleur de la pièce reflète l'état actuel de la pièce</Item>
-		<Item Name="BuildMode">Construire le mode</Item>
+		<Item Name="BuildMode">Mode construction</Item>
 		<Item Name="BuildModeDesc">Cliquez ici pour basculer en mode construction, dans lequel vous pouvez construire et meubler vos bureaux et construire des routes et des parkings</Item>
 		<Item Name="Monthly profits">Profits mensuels</Item>
 		<Item Name="SkipTime">Passer le temps inutilisé</Item>
@@ -337,12 +337,12 @@ Jusqu'à {0} par réparation</Item>
 		<Item Name="Player section">Toi</Item>
 	</Newspaper>
 	<Pause>
-		<Item Name="Resume">CV</Item>
+		<Item Name="Resume">Reprendre</Item>
 		<Item Name="Save game">Sauvegarder la partie</Item>
-		<Item Name="Save game as">Enregistrer le jeu sous ...</Item>
+		<Item Name="Save game as">Enregistrer le jeu sous...</Item>
 		<Item Name="Load game">Chargement du jeu</Item>
-		<Item Name="Quit to menu">Quitter au menu</Item>
-		<Item Name="Quit to desktop">Quitter pour le bureau</Item>
+		<Item Name="Quit to menu">Quitter et menu</Item>
+		<Item Name="Quit to desktop">Quitter et bureau</Item>
 	</Pause>
 	<Marketing>
 		<Item Name="Interwebs">Interwebs</Item>
@@ -2062,7 +2062,7 @@ Ajoutez% à la fin du nombre pour commander un pourcentage des abonnés du produ
 		<Item Name="EducationCooldownTip">Combien {0} attendre entre l'envoi des employés pour l'éducation</Item>
 		<Item Name="HRSpent">Dépenses mensuelles</Item>
 		<Item Name="RoleSelectionHint">Si et comment les RH doivent contrôler l'affectation des rôles des employés</Item>
-		<Item Name="Room grouping">Regroupement de pièces</Item>
+		<Item Name="Room grouping">Regroup. de pièces</Item>
 		<Item Name="RentModeEditorError">Vous n'avez pas marqué de chambres de départ à louer!
 Vous pouvez faire un clic droit sur les pièces pour les marquer et les décocher pour les louer, les regrouper et les marquer comme pièces de départ.</Item>
 		<Item Name="ActionToggleRentable">Toggle si possible</Item>
