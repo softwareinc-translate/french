@@ -46,15 +46,15 @@
 		<Item Name="Start game">Démarrer jeu</Item>
 	</Customization>
 	<GenericDialog>
-		<Item Name="OK">D'accord</Item>
+		<Item Name="OK">OK</Item>
 		<Item Name="Cancel">Annuler</Item>
 		<Item Name="Yes">Oui</Item>
 		<Item Name="No">Non</Item>
 		<Item Name="Error">Erreur</Item>
 	</GenericDialog>
 	<MainPanel>
-		<Item Name="HR">HEURE</Item>
-		<Item Name="Finance">La finance</Item>
+		<Item Name="HR">RH</Item>
+		<Item Name="Finance">Finance</Item>
 		<Item Name="Marketplace">Marché</Item>
 		<Item Name="MainDevSoft">Développer un logiciel</Item>
 		<Item Name="MainDevSoftDesc">Concevez et libérez votre propre logiciel</Item>
@@ -124,7 +124,7 @@
 		<Item Name="Tier">Étage</Item>
 		<Item Name="Scope">Portée</Item>
 		<Item Name="Company">Compagnie</Item>
-		<Item Name="Release">Libération</Item>
+		<Item Name="Release">Libérer</Item>
 		<Item Name="Quality">Qualité</Item>
 		<Item Name="Popularity">Popularité</Item>
 		<Item Name="License">Licence</Item>
@@ -196,7 +196,7 @@
 		<Item Name="Insurance">Assurance</Item>
 		<Item Name="Save games">Enregistrer des jeux</Item>
 		<Item Name="Staff">Personnel</Item>
-		<Item Name="Marketing">Commercialisation</Item>
+		<Item Name="Marketing">Marketing</Item>
 		<Item Name="Servers">Les serveurs</Item>
 		<Item Name="Education">Éducation</Item>
 		<Item Name="Materials">Matériaux</Item>
@@ -236,8 +236,8 @@
 		<Item Name="ScopeTier2">Moyen</Item>
 		<Item Name="ScopeTier3">Grand</Item>
 		<Item Name="QualityAmount1">Horrible</Item>
-		<Item Name="QualityAmount2">Mal</Item>
-		<Item Name="QualityAmount3">Médiocre</Item>
+		<Item Name="QualityAmount2">Mauvais</Item>
+		<Item Name="QualityAmount3">Correcte</Item>
 		<Item Name="QualityAmount4">Bien</Item>
 		<Item Name="QualityAmount5">Génial</Item>
 		<Item Name="QualityAmount6">Exceptionnel</Item>
@@ -310,7 +310,7 @@
 	</LoanWindow>
 	<InsuranceWindow>
 		<Item Name="Deposit">Dépôt</Item>
-		<Item Name="Withdraw">Se désister</Item>
+		<Item Name="Withdraw">Retrait</Item>
 		<Item Name="PerEmployee">par employé</Item>
 	</InsuranceWindow>
 	<StockWindow>
@@ -320,11 +320,11 @@
 	<StaffWindow>
 		<Item Name="Permanent">Permanent</Item>
 		<Item Name="Temporary">Temporaire</Item>
-		<Item Name="Call janitor">Appelez la maintenance</Item>
-		<Item Name="Call cleaning">Appelez le nettoyage</Item>
-		<Item Name="Call IT-support">Appelez le support informatique</Item>
-		<Item Name="Hire janitor">Engager la maintenance</Item>
-		<Item Name="Hire cleaning">Location de nettoyage</Item>
+		<Item Name="Call janitor">Appelez maintenance</Item>
+		<Item Name="Call cleaning">Appelez nettoyage</Item>
+		<Item Name="Call IT-support">Appelez support informatique</Item>
+		<Item Name="Hire janitor">Engager maintenance</Item>
+		<Item Name="Hire cleaning">Engager nettoyage</Item>
 		<Item Name="PerHour"> par heure</Item>
 		<Item Name="PerMonth"> par mois</Item>
 		<Item Name="ITPayment">{0} à l'avant
@@ -345,14 +345,14 @@ Jusqu'à {0} par réparation</Item>
 		<Item Name="Quit to desktop">Quitter et bureau</Item>
 	</Pause>
 	<Marketing>
-		<Item Name="Interwebs">Interwebs</Item>
+		<Item Name="Interwebs">Interview Web</Item>
 		<Item Name="Radio">Radio</Item>
 		<Item Name="Newspapers">Journaux</Item>
 		<Item Name="Television">Télévision</Item>
 		<Item Name="Start campaign">Démarrer la campagne</Item>
 	</Marketing>
 	<OptionsWindow>
-		<Item Name="Auto-skip day">Journée d'auto-saut</Item>
+		<Item Name="Auto-skip day">Passer journée auto.</Item>
 		<Item Name="AutoSkipHint">Passera automatiquement à l'arrivée suivante d'un employé s'il n'y a personne présent</Item>
 		<Item Name="Currency">Devise</Item>
 		<Item Name="Difficulty">Difficulté</Item>
@@ -672,7 +672,7 @@ Voulez-vous prendre un prêt pour {1} afin d'éviter la faillite?</Item>
 		<Item Name="ContractFinish">Contrat fini pour une valeur nette de {0}</Item>
 		<Item Name="Alpha">Alpha</Item>
 		<Item Name="Beta">Bêta</Item>
-		<Item Name="Promote">Promouvoir</Item>
+		<Item Name="Promote">Lancer</Item>
 		<Item Name="Delay">Retard</Item>
 		<Item Name="NoBugs">Aucun bogue à corriger</Item>
 		<Item Name="StillBugs">Correction de bugs {0}</Item>
@@ -762,7 +762,7 @@ Faites un clic droit pour désélectionner et annuler.</Item>
 	<Item Name="Code">Code</Item>
 	<Item Name="Art">Art</Item>
 	<Item Name="Base skill">Compétence de base</Item>
-	<Item Name="Lead">Mener</Item>
+	<Item Name="Lead">Meneur</Item>
 	<Item Name="Leader">Chef</Item>
 	<Item Name="Designer">Designer</Item>
 	<Item Name="Programmer">Programmeur</Item>
@@ -1124,7 +1124,7 @@ Assurez-vous d'avoir la permission de supprimer ce fichier sur votre ordinateur<
 		<Item Name="FansInfo">Les fans n'ont aucun impact direct sur vos ventes, mais le fait d'avoir plus de fans facilitera la reconnaissance du marché.</Item>
 		<Item Name="Business reputation">Réputation d'entreprise</Item>
 		<Item Name="PricingButtonTip">Cliquez ici pour utiliser le prix suggéré pour ce logiciel</Item>
-		<Item Name="Market recognition">La reconnaissance du marché</Item>
+		<Item Name="Market recognition">Satisfaction fans</Item>
 		<Item Name="MarketRecognitionInfo">Votre reconnaissance du marché contrôle votre connaissance de chaque marché de logiciels et donc la qualité de la vente de vos produits dans chaque catégorie.</Item>
 		<Item Name="Bandwidth">Bande passante</Item>
 		<Item Name="Reflections">Réflexions</Item>
@@ -1322,7 +1322,7 @@ Ne laissez pas les mots atteindre le fond</Item>
 
 Cliquez pour continuer</Item>
 		<Item Name="RoomAngleError2">L'angle du mur doit être supérieur à {0} °</Item>
-		<Item Name="Hint">Allusion</Item>
+		<Item Name="Hint">Astuce</Item>
 		<Item Name="Hints">Astuces</Item>
 		<Item Name="HintEmployeeAssign">Vous pouvez affecter des employés à des meubles en maintenant la touche Maj enfoncée et en sélectionnant le (s) employé (s) et le meuble, puis en cliquant sur le bouton droit de la souris.</Item>
 		<Item Name="HintStaffAssign">Vous pouvez affecter du personnel aux pièces en maintenant la touche Maj enfoncée et en sélectionnant à la fois le (s) membre (s) du personnel et la (les) salle (s), puis en cliquant sur le bouton droit de la souris.</Item>
@@ -1571,7 +1571,7 @@ Veuillez le connecter en utilisant des portes, des ascenseurs ou des escaliers</
 		<Item Name="NegativePostfixBias">{0} biais négatif</Item>
 		<Item Name="BiasNone">Pas de biais</Item>
 		<Item Name="Peer review">Examen par les pairs</Item>
-		<Item Name="Review">La revue</Item>
+		<Item Name="Review">Évaluer</Item>
 		<Item Name="Anonymous">Anonyme</Item>
 		<Item Name="ReviewOf">Examen de {0}</Item>
 		<Item Name="ReviewsWritten">{0} avis finis</Item>
@@ -1830,7 +1830,7 @@ Voulez-vous continuer?</Item>
 Voulez-vous continuer?</Item>
 		<Item Name="Reject">Rejeter</Item>
 		<Item Name="RejectConfirmation">Êtes-vous sûr de vouloir rejeter ces éléments?</Item>
-		<Item Name="TimeDiffLeft">{0} gauche</Item>
+		<Item Name="TimeDiffLeft">{0} restant</Item>
 		<Item Name="TimeDiffNotLeft">{0} en retard</Item>
 		<Item Name="Expected quality">Qualité attendue</Item>
 		<Item Name="Lines of code">Lignes de code</Item>
