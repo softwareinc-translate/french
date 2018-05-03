@@ -1,17 +1,17 @@
 <UI>
 	<Months>
-		<Item Name="January">janvier</Item>
-		<Item Name="February">février</Item>
+		<Item Name="January">Janvier</Item>
+		<Item Name="February">Février</Item>
 		<Item Name="March">Mars</Item>
-		<Item Name="April">avril</Item>
+		<Item Name="April">Avril</Item>
 		<Item Name="May">Mai</Item>
-		<Item Name="June">juin</Item>
-		<Item Name="July">juillet</Item>
-		<Item Name="August">août</Item>
-		<Item Name="September">septembre</Item>
-		<Item Name="October">octobre</Item>
-		<Item Name="November">novembre</Item>
-		<Item Name="December">décembre</Item>
+		<Item Name="June">Juin</Item>
+		<Item Name="July">Juillet</Item>
+		<Item Name="August">Août</Item>
+		<Item Name="September">Septembre</Item>
+		<Item Name="October">Octobre</Item>
+		<Item Name="November">Novembre</Item>
+		<Item Name="December">Décembre</Item>
 	</Months>
 	<MainMenu>
 		<Item Name="New Game">Nouveau jeu</Item>
@@ -111,7 +111,7 @@
 		<Item Name="Team">Équipe</Item>
 		<Item Name="Effectiveness">Efficacité</Item>
 		<Item Name="Team Compatibility">Compatibilité d'équipe</Item>
-		<Item Name="Satisfaction">la satisfaction</Item>
+		<Item Name="Satisfaction">Satisfaction</Item>
 		<Item Name="Aptitude">Aptitude</Item>
 		<Item Name="Leadership">Direction</Item>
 		<Item Name="Diligence">Diligence</Item>
@@ -161,7 +161,7 @@
 		<Item Name="Progress">Le progrès</Item>
 		<Item Name="Contract">Contrat</Item>
 		<Item Name="Months">Mois</Item>
-		<Item Name="Income">le revenu</Item>
+		<Item Name="Income">Revenu</Item>
 		<Item Name="Total">Total</Item>
 		<Item Name="Monthly">Mensuel</Item>
 		<Item Name="Payout">Paiement</Item>
@@ -174,7 +174,7 @@
 		<Item Name="Money">Argent</Item>
 		<Item Name="Enabled">Activée</Item>
 		<Item Name="Toggle">Basculer</Item>
-		<Item Name="Active">actif</Item>
+		<Item Name="Active">Actif</Item>
 		<Item Name="Physical store">Boutique physique</Item>
 		<Item Name="Release cost">Coût de sortie</Item>
 		<Item Name="Revenue cut">Réduction des revenus</Item>
@@ -203,7 +203,7 @@
 		<Item Name="EULA">CLUF</Item>
 	</WindowTitles>
 	<DesignWindow>
-		<Item Name="Action">action</Item>
+		<Item Name="Action">Action</Item>
 		<Item Name="In-house">En interne</Item>
 		<Item Name="Add">Ajouter</Item>
 		<Item Name="Remove">Retirer</Item>
@@ -256,7 +256,7 @@
 	<AutoWindow>
 		<Item Name="Project management">Gestion de projet</Item>
 		<Item Name="ProjectManagementHint">Pour permettre cela, le chef d'équipe doit avoir suivi un cours de gestion de projet à travers le programme d'éducation</Item>
-		<Item Name="HR management">gestion des ressources humaines</Item>
+		<Item Name="HR management">Gestion des ressources humaines</Item>
 		<Item Name="HRManagementHint">Pour permettre cela, le chef d'équipe doit avoir suivi un cours en gestion des ressources humaines à travers le programme d'éducation</Item>
 		<Item Name="Dev budget">Budget Dev</Item>
 		<Item Name="Marketing budget">Budget marketing</Item>
@@ -470,7 +470,7 @@ Jusqu'à {0} par réparation</Item>
 		<Item Name="ComputerBad">Mon ordinateur est nul</Item>
 		<Item Name="NoNoiseGood">La chambre est belle et calme</Item>
 		<Item Name="BasementComplaint">Travailler dans le sous-sol suce</Item>
-		<Item Name="Starving">je meurs de faim</Item>
+		<Item Name="Starving">Je meurs de faim</Item>
 		<Item Name="HasToPee">Je dois vraiment faire pipi</Item>
 		<Item Name="LowerSalaryComplaint">Je n'ai pas eu le salaire que je voulais</Item>
 		<Item Name="HigherSalary">Je viens d'avoir une augmentation!</Item>
@@ -602,7 +602,7 @@ Voulez-vous prendre un prêt pour {1} afin d'éviter la faillite?</Item>
 		<Item Name="Artists">Artistes</Item>
 	</RoomLimitNames>
 	<BuildMode>
-		<Item Name="Wall">mur</Item>
+		<Item Name="Wall">Mur</Item>
 		<Item Name="Door">Porte</Item>
 		<Item Name="Elevator">Ascenseur</Item>
 		<Item Name="Window">Fenêtre</Item>
@@ -660,7 +660,7 @@ Voulez-vous prendre un prêt pour {1} afin d'éviter la faillite?</Item>
 		<Item Name="MarketingFundsOut">Vous n'avez plus de fonds pour soutenir votre campagne de marketing</Item>
 		<Item Name="MarketingStage">Parler pour appuyer</Item>
 		<Item Name="MarketingBalance">Net</Item>
-		<Item Name="DesignStageStockWait">en attente d'approbation</Item>
+		<Item Name="DesignStageStockWait">En attente d'approbation</Item>
 		<Item Name="DesignStageDesigning">Conception</Item>
 		<Item Name="ThrowOutAuto">Jeter</Item>
 		<Item Name="DesignWaitLabel">Attendre</Item>
@@ -748,7 +748,7 @@ Faites un clic droit pour désélectionner et annuler.</Item>
 	<Item Name="Assign">Attribuer</Item>
 	<Item Name="Unassigned">Non attribué</Item>
 	<Item Name="SaveName">Entrez le nom de sauvegarde ...</Item>
-	<Item Name="Save">sauvegarder</Item>
+	<Item Name="Save">Sauvegarder</Item>
 	<Item Name="Load">Charge</Item>
 	<Item Name="Apply">Appliquer</Item>
 	<Item Name="New team">Nouvelle équipe</Item>
@@ -834,7 +834,7 @@ Faites un clic droit pour désélectionner et annuler.</Item>
 		<Item Name="OctoberAbbr">Oct.</Item>
 		<Item Name="NovemberAbbr">Nov.</Item>
 		<Item Name="DecemberAbbr">Déc.</Item>
-		<Item Name="Day">journée</Item>
+		<Item Name="Day">Journée</Item>
 		<Item Name="6 months">6 mois</Item>
 		<Item Name="Last month">Le mois dernier</Item>
 		<Item Name="This month">Ce mois-ci</Item>
@@ -940,7 +940,7 @@ Assurez-vous qu'il y a un chemin hors du bâtiment sans que rien ne bloque le ch
 		<Item Name="Coverage">Couverture</Item>
 	</Alpha4.7>
 	<Alpha5.1>
-		<Item Name="I agree">je suis d'accord</Item>
+		<Item Name="I agree">Je suis d'accord</Item>
 		<Item Name="Validate">Valider</Item>
 		<Item Name="Forest">Forêt</Item>
 		<Item Name="City">Ville</Item>
@@ -1023,7 +1023,7 @@ Je suis vraiment désolé pour le dérangement.</Item>
 		<Item Name="Select fallback">Sélectionnez le repli</Item>
 		<Item Name="Fallback">Se retirer</Item>
 		<Item Name="Project">Projet</Item>
-		<Item Name="Desert">désert</Item>
+		<Item Name="Desert">Désert</Item>
 		<Item Name="Tundra">Toundra</Item>
 		<Item Name="Paused">En pause</Item>
 	</Alpha5.4>
@@ -1041,7 +1041,7 @@ Je suis vraiment désolé pour le dérangement.</Item>
 		<Item Name="ActionMergeRooms">Fusionner les pièces</Item>
 		<Item Name="Turn furniture clockwise">Tournez le meuble</Item>
 		<Item Name="Turn furniture counter clockwise">Tournez les meubles dans le sens antihoraire</Item>
-		<Item Name="Grid">la grille</Item>
+		<Item Name="Grid">Grille</Item>
 		<Item Name="ActionSelectWall">Sélectionnez tous les segments sur ce mur</Item>
 		<Item Name="ActionDuplicate">Dupliquer</Item>
 		<Item Name="RoomNarrowError">Les murs des pièces doivent être distants de 1,0 unité</Item>
@@ -1073,7 +1073,7 @@ Assurez-vous d'avoir la permission de supprimer ce fichier sur votre ordinateur<
 		<Item Name="Personality interview">Entretien de personnalité</Item>
 		<Item Name="SSAA">SSAA</Item>
 		<Item Name="SSAAHint">L'antialiasing de super-échantillonnage rend le jeu en double résolution pour lisser autant que possible les bords (nécessite une carte graphique haut de gamme)</Item>
-		<Item Name="Event">un événement</Item>
+		<Item Name="Event">Événement</Item>
 		<Item Name="Payments">Paiements</Item>
 		<Item Name="Employee">Employé</Item>
 	</Alpha6.11>
@@ -1107,7 +1107,7 @@ Assurez-vous d'avoir la permission de supprimer ce fichier sur votre ordinateur<
 	</Alpha6.22>
 	<Alpha7.1>
 		<Item Name="Units">Unités</Item>
-		<Item Name="Perception">la perception</Item>
+		<Item Name="Perception">Perception</Item>
 		<Item Name="License cost">Coût de licence</Item>
 		<Item Name="Gross">Brut</Item>
 		<Item Name="Price">Prix</Item>
@@ -1198,7 +1198,7 @@ Catégorie: {2}</Item>
 		<Item Name="FCCasing">Enveloppe</Item>
 		<Item Name="FCShade">Ombre</Item>
 		<Item Name="FCLighting">Éclairage</Item>
-		<Item Name="FCFabric">en tissu</Item>
+		<Item Name="FCFabric">Tissu</Item>
 		<Item Name="FCBackground">Contexte</Item>
 		<Item Name="FCBlades">Lames</Item>
 		<Item Name="FCHandle">Manipuler</Item>
@@ -1458,7 +1458,7 @@ Es-tu sur de vouloir continuer?</Item>
 		<Item Name="Semi-Long Hair">Cheveux mi-longs</Item>
 		<Item Name="Afro">Afro</Item>
 		<Item Name="Hire Cook">Location de cuisine</Item>
-		<Item Name="Cook">cuisinier</Item>
+		<Item Name="Cook">Cuisinier</Item>
 		<Item Name="Preparing food">Préparer de la nourriture</Item>
 		<Item Name="Serving food">Servir de la nourriture</Item>
 		<Item Name="Canteen">Cantine</Item>
@@ -1510,7 +1510,7 @@ Erreur:</Item>
 		<Item Name="ReportMessagePlaceholder">Entrez votre message au développeur ici</Item>
 		<Item Name="TryLaterConfirm">Votre rapport a été enregistré et réessayera la prochaine fois que vous lancerez le jeu.</Item>
 		<Item Name="ReportDelayError">Vous ne pouvez envoyer un rapport qu'une fois toutes les 5 minutes</Item>
-		<Item Name="Report">rapport</Item>
+		<Item Name="Report">Rapport</Item>
 		<Item Name="ScreenshotDev">Rapport capture d'écran</Item>
 		<Item Name="SaveGameFail2">Échec de la sauvegarde du jeu. Le jeu continuera, mais vous pourriez rencontrer un comportement étrange ou une perte de données.
 L'erreur a été enregistrée. Souhaitez-vous également envoyer un rapport d'erreur au développeur?
@@ -1591,7 +1591,7 @@ Le marketing est un puits d'argent sans fin et vous êtes en concurrence pour at
 Fixez un budget pour vous assurer de ne pas manquer d'argent ou laissez-le à 0 si vous ne voulez pas limiter les dépenses.</Item>
 		<Item Name="Writing press release">Rédaction du communiqué de presse</Item>
 		<Item Name="Announce release date">Annoncer la date de sortie</Item>
-		<Item Name="Press release">communiqué de presse</Item>
+		<Item Name="Press release">Communiqué de presse</Item>
 		<Item Name="Press build">Construire la presse</Item>
 		<Item Name="Hype">Hype</Item>
 		<Item Name="FollowerAmount">{0} abonnés</Item>
@@ -1648,7 +1648,7 @@ Fixez un budget pour vous assurer de ne pas manquer d'argent ou laissez-le à 0 
 		<Item Name="OwnLicenseTip">Le leader devrait-il se limiter aux licences internes lors de la création de nouveaux projets?</Item>
 		<Item Name="Single IP">IP unique</Item>
 		<Item Name="SingleIPTip">Le leader doit-il s'en tenir à une adresse IP, en l'obligeant à attendre si une suite est déjà en cours de développement?</Item>
-		<Item Name="Temporarily unavailable">temporairement indisponible</Item>
+		<Item Name="Temporarily unavailable">Temporairement indisponible</Item>
 		<Item Name="AutoDevMissingLeader">Vous devez choisir un chef avant de pouvoir continuer</Item>
 		<Item Name="AutoDevNoLeaders">Il n'y a pas de leaders à choisir. S'il vous plaît embaucher un chef ou faire un de vos employés actuels un leader</Item>
 		<Item Name="LateProductRelease">{0} est en retard et perd des abonnés</Item>
@@ -1765,7 +1765,7 @@ Vous pouvez commander des copies instantanément pour {0} par copie en cliquant 
 		<Item Name="Bills">Factures</Item>
 		<Item Name="Rent">Location</Item>
 		<Item Name="Food">Aliments</Item>
-		<Item Name="Internet">l'Internet</Item>
+		<Item Name="Internet">Internet</Item>
 		<Item Name="MonthsAgo">Il y a des mois</Item>
 		<Item Name="Sheet">Drap</Item>
 		<Item Name="NextPrintCountdown">Prochaine impression en {0} minutes</Item>
@@ -1908,7 +1908,7 @@ Repousser la date de sortie peut faire que les gens commencent à ne plus suivre
 		<Item Name="OSMockConfirm">Votre produit dépend de systèmes d'exploitation en cours de développement. Vous ne pourrez pas libérer votre produit avant la sortie de ces systèmes d'exploitation.
 Es-tu sur de vouloir continuer?</Item>
 		<Item Name="ActionRoomPairDirect">Attribuer des salles sélectionnées au personnel</Item>
-		<Item Name="Undo">annuler</Item>
+		<Item Name="Undo">Annuler</Item>
 		<Item Name="UndoWarningTip">Cette fonctionnalité est actuellement expérimentale! Le jeu s'autosave au cas où quelque chose arriverait</Item>
 		<Item Name="Destroy Wall">Détruire le mur</Item>
 		<Item Name="Tear down walls between rooms">Déchirer les murs entre les chambres</Item>
@@ -1918,7 +1918,7 @@ Es-tu sur de vouloir continuer?</Item>
 		<Item Name="Generous">Généreuse</Item>
 		<Item Name="Optimistic">Optimiste</Item>
 		<Item Name="Misanthropist">Misanthrope</Item>
-		<Item Name="Cocky">Sûr de soi</Item>
+		<Item Name="Cocky">Cocky</Item>
 		<Item Name="Snob">Snob</Item>
 		<Item Name="Mean">Mesquin</Item>
 		<Item Name="Pessimistic">Pessimiste</Item>
@@ -2211,7 +2211,7 @@ Ajouter de la ventilation et se souvenir de la fuite des fenêtres</Item>
 		<Item Name="ResetBenefits">Réinitialiser l'entreprise</Item>
 		<Item Name="OverrideBenefits">Remplacer l'avantage de l'entreprise</Item>
 		<Item Name="Insulation">Isolation</Item>
-		<Item Name="Christmas bonus">bonus de Noël</Item>
+		<Item Name="Christmas bonus">Bonus de Noël</Item>
 		<Item Name="Great">Génial</Item>
 	</Alpha10.3>
 	<Alpha10.4>

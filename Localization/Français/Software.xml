@@ -541,7 +541,7 @@ La plupart des logiciels ont besoin d'un système d'exploitation pour fonctionne
 				<Name>Pages dynamiques</Name>
 			</Feature>
 			<Feature Name="Store">
-				<Name>le magasin</Name>
+				<Name>Magasin</Name>
 			</Feature>
 			<Feature Name="Database">
 				<Name>Base de données</Name>

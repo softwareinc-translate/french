@@ -209,7 +209,7 @@
 		<Color1>Pot</Color1>
 	</Furniture>
 	<Furniture Name="Coffee">
-		<Name>café</Name>
+		<Name>Café</Name>
 		<Description>Votre machine à café moulu standard</Description>
 		<Color1>Base</Color1>
 	</Furniture>
@@ -236,7 +236,7 @@
 		<Color1>Cadre</Color1>
 	</Furniture>
 	<Furniture Name="TV">
-		<Name>la télé</Name>
+		<Name>La télé</Name>
 		<Description></Description>
 		<Color1>Cadre</Color1>
 	</Furniture>
