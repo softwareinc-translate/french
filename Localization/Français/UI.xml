@@ -105,7 +105,7 @@
 		<Item Name="RoadsHint">Construisez des routes et des terrains de stationnement pour que vos employés puissent se rendre au travail plus rapidement</Item>
 	</MainPanel>
 	<Columns>
-		<Item Name="Name">prénom</Item>
+		<Item Name="Name">Nom</Item>
 		<Item Name="Role">Rôle</Item>
 		<Item Name="Status">Statut</Item>
 		<Item Name="Team">Équipe</Item>
@@ -372,7 +372,7 @@ Jusqu'à {0} par réparation</Item>
 		<Item Name="Hard">Difficile</Item>
 		<Item Name="Gameplay">Gameplay</Item>
 		<Item Name="Graphics">Graphique</Item>
-		<Item Name="Audio">l'audio</Item>
+		<Item Name="Audio">Audio</Item>
 		<Item Name="Keys">Clés</Item>
 		<Item Name="Resolution">Résolution</Item>
 		<Item Name="Fullscreen">Plein écran</Item>
@@ -762,7 +762,7 @@ Faites un clic droit pour désélectionner et annuler.</Item>
 	<Item Name="Code">Code</Item>
 	<Item Name="Art">Art</Item>
 	<Item Name="Base skill">Compétence de base</Item>
-	<Item Name="Lead">Conduire</Item>
+	<Item Name="Lead">Mener</Item>
 	<Item Name="Leader">Chef</Item>
 	<Item Name="Designer">Designer</Item>
 	<Item Name="Programmer">Programmeur</Item>
@@ -1350,7 +1350,7 @@ Cliquez pour continuer</Item>
 	</Alpha8.5>
 	<Alpha8.6>
 		<Item Name="Upload">Télécharger</Item>
-		<Item Name="Steam Workshop">Atelier de vapeur</Item>
+		<Item Name="Steam Workshop">Steam Workshop</Item>
 		<Item Name="SteamWorkshopHint">Cliquez ici pour commencer à télécharger vos mods sur Steam Workshop</Item>
 		<Item Name="FailedSteamUpload">Impossible de télécharger le mod avec le code d'erreur: {0}</Item>
 		<Item Name="SuccessSteamUpload">Mod téléchargé avec succès! N'oubliez pas de changer la visibilité de votre mod dans l'atelier.</Item>
@@ -1410,7 +1410,7 @@ Cliquez pour continuer</Item>
 		<Item Name="Social">Social</Item>
 		<Item Name="Independent">Indépendant</Item>
 		<Item Name="Hard worker">Bosseur</Item>
-		<Item Name="Fast learner">Apprenant rapide</Item>
+		<Item Name="Fast learner">Apprend vite</Item>
 		<Item Name="Lazy">Paresseux</Item>
 		<Item Name="Stressed">Stressé</Item>
 		<Item Name="IndependantVsSocial">Un bon leader doit être social, mais un employé indépendant travaillera avec plaisir toute la journée dans ses cabines</Item>
@@ -1769,7 +1769,7 @@ Vous pouvez commander des copies instantanément pour {0} par copie en cliquant 
 		<Item Name="MonthsAgo">Il y a des mois</Item>
 		<Item Name="Sheet">Drap</Item>
 		<Item Name="NextPrintCountdown">Prochaine impression en {0} minutes</Item>
-		<Item Name="Log">Bûche</Item>
+		<Item Name="Log">Log</Item>
 		<Item Name="Copy">Copie</Item>
 		<Item Name="IndoorError">Cela doit être placé à l'intérieur</Item>
 		<Item Name="OutdoorError">Cela doit être placé dans les zones extérieures</Item>
@@ -1915,18 +1915,18 @@ Es-tu sur de vouloir continuer?</Item>
 		<Item Name="MissingChairHint">Cette {0} a besoin d'une chaise pour devenir accessible</Item>
 	</Alpha9.8>
 	<Alpha9.9>
-		<Item Name="Generous">généreuse</Item>
+		<Item Name="Generous">Généreuse</Item>
 		<Item Name="Optimistic">Optimiste</Item>
 		<Item Name="Misanthropist">Misanthrope</Item>
-		<Item Name="Cocky">Cocky</Item>
+		<Item Name="Cocky">Sûr de soi</Item>
 		<Item Name="Snob">Snob</Item>
-		<Item Name="Mean">Signifier</Item>
+		<Item Name="Mean">Mesquin</Item>
 		<Item Name="Pessimistic">Pessimiste</Item>
 		<Item Name="Goofy">Dingo</Item>
 		<Item Name="Flirt">Flirter</Item>
 		<Item Name="Naive">Naïve</Item>
 		<Item Name="Dramatic">Dramatique</Item>
-		<Item Name="Short-tempered">Court-trempé</Item>
+		<Item Name="Short-tempered">Irritable</Item>
 		<Item Name="Stubborn">Têtu</Item>
 		<Item Name="Introvert">Introverti</Item>
 		<Item Name="Extrovert">Extraverti</Item>
@@ -2010,7 +2010,7 @@ Ajoutez% à la fin du nombre pour commander un pourcentage des abonnés du produ
 		<Item Name="Temperate">Tempéré</Item>
 		<Item Name="Warm">Chaud</Item>
 		<Item Name="Rural">Rural</Item>
-		<Item Name="Town">Ville</Item>
+		<Item Name="Town">Commune</Item>
 		<Item Name="Custom Map">Carte personnalisée</Item>
 		<Item Name="Pick map">Choisissez la carte</Item>
 		<Item Name="Move company">Déplacer une entreprise</Item>
